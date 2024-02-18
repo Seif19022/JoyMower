@@ -16,4 +16,4 @@ Joymower App is an android mobile application designed to provide remote control
 
 
 ## Note
-Please note that RoboWatch App was developed as part of a capstone project for a university course. As a result, it may have certain limitations and constraints due to the scope and nature of the project.
+Please note that JoyMower App was developed as part of a capstone project for a university course. As a result, it may have certain limitations and constraints due to the scope and nature of the project.
