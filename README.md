@@ -1,4 +1,4 @@
-##Joymower
+## Joymower
 This repository houses the complete source code for the JoyMower app, which empowers users to remotely control and monitor robotic devices for mowing purposes.
 
 ## Overview
@@ -14,7 +14,7 @@ Joymower App is an android mobile application designed to provide remote control
 - **Authentication and Sign-Up:** Secure user authentication system that ensures only authorized users can access the app's functionalities. New users can create their accounts securely through a sign-up feature.
 - **Forgot password:** make it easier for user when he forgets password to reset it through his registered email.
 
-  ##Screenshots
+  ## Screenshots
   
 
 
