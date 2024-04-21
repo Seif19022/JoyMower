@@ -17,7 +17,7 @@ Joymower App is an android mobile application designed to provide remote control
  ## Screenshots
  | Home Monitoring Screen | Control Screen | Scheduled Mowings Screen | Historical Data and Analytics Screen | User Profile | Login Screen | Signup Screen |
 | --- | --- | --- | --- | --- | --- |
-| ![Home Page]() | ![Control Screen]()| ![Scheduled Mowings Screen]() | ![User Data Log]) |  ![User Profile]() | ![Login Screen]() | ![Signup Screen]() |
+| ![Home Page](https://github.com/Seif19022/JoyMower/blob/master/home%20screen.PNG) | ![Control Screen](https://github.com/Seif19022/JoyMower/blob/master/control%20screen.PNG)| ![Scheduled Mowings Screen](https://github.com/Seif19022/JoyMower/blob/master/mowing%20screen.PNG) | ![User Data Log](https://github.com/Seif19022/JoyMower/blob/master/activity%20log.PNG) |  ![User Profile](https://github.com/Seif19022/JoyMower/blob/master/user%20profile.PNG) | ![Login Screen](https://github.com/Seif19022/JoyMower/blob/master/log%20in%20screen.PNG) | ![Signup Screen](https://github.com/Seif19022/JoyMower/blob/master/sign%20up%20screen.PNG) |
 
 
 ## Note
