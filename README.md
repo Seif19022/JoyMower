@@ -15,7 +15,7 @@ Joymower App is an android mobile application designed to provide remote control
 - **Forgot password:** make it easier for user when he forgets password to reset it through his registered email.
 
  ## Screenshots
- | Home Monitoring Screen | Control Screen | Scheduled Patrols Screen | Historical Data and Analytics Screen | User Profile | Login Screen | Signup Screen |
+ | Home Monitoring Screen | Control Screen | Scheduled Mowings Screen | Historical Data and Analytics Screen | User Profile | Login Screen | Signup Screen |
 | --- | --- | --- | --- | --- | --- |
 | ![Home Page]() | ![Control Screen]()| ![Scheduled Mowings Screen]() | ![User Data Log]) |  ![User Profile]() | ![Login Screen]() | ![Signup Screen]() |
 
